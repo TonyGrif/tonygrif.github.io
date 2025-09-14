@@ -14,7 +14,7 @@ repository               : "tonygrif/tonygrif.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.jpg"
   name             : "Tony Griffin"
   pronouns         : "He/Him"
   bio              : "Graduate Student in Data Science"
