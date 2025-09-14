@@ -13,4 +13,4 @@ As I continue my studies, I am eager to deepen my expertise in predictive modeli
 
 ## Resume
 
-<object data="../assets/resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/resume.pdf" width="1000" height="1000" type="application/pdf"></object>
