@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at Old Dominion University, where I am pursuing a Master’s degree in Data Science after earning my Bachelor’s degree in Computer Science from the same institution.
-My academic interests center on time series forecasting, weather prediction, and data engineering, where I focus on leveraging statistical modeling, machine learning, and scalable data pipelines to tackle complex challenges.
+I am a graduate student at Old Dominion University, where I am pursuing a Master’s degree in
+Data Science after earning my Bachelor’s degree in Computer Science from the same institution.
+My current academic interests center on phase space reconstruction and physics-informed neural networks
+where I focus on leveraging machine learning to tackle complex challenges relating to accelerator physics.
 
-As I continue my studies, I am eager to deepen my expertise in predictive modeling, machine learning, and large-scale data systems, while working on impactful projects in forecasting and environmental data science.
+As I continue my studies, I am eager to deepen my expertise in predictive modeling, machine learning,
+and computational simulations, while working on impactful projects in data science for physics.
 
 ## Resume
 
